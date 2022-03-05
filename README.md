@@ -4,7 +4,7 @@
 
 ![](UI_snapshot.png)
 
-In this project I will build a web application which can classify famous personalities. I will restrict classification to only 4 people,
+In this project I will build a web application which can classify famous using logistic regression. I will restrict classification to only 4 people,
 1) Elon Musk
 2) Jeff Bezos
 3) Mark Zuckerberg
